@@ -1,3 +1,4 @@
 # hello-world
-Hello world
-This is a test of the read me file.
+My change is going to win because I know how to use Git.
+BangmaRang PanDaMan
+
